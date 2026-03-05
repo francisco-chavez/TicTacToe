@@ -1,0 +1,16 @@
+
+Name: Tic Tac Toe
+Alternate Names: Xs and Ox, Noughts and Crosses, Naughts and Crosses
+
+Played on a Board with a 3x3 grid.
+Two Player game.
+ - One Player has Markers with a visible 'X'.
+ - The other Player has Markers with a visible 'O'.
+ - There is no agreeded upon rule for which Player goes first (Xs or Os).
+ 
+Board starts out empty.
+Players take turns where they each place down a single Marker into an empty grid space during their turn.
+ - Each grid space accepts one and only one Marker.
+Win Condition: Player manages to place three of their markers in the same column, same row, or same diagonal.
+If the game can no longer progress (due to all grid spaces being filled), then it is a draw.
+ - Draws are often called a, "cat's game."
